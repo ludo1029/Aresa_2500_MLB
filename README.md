@@ -17,6 +17,12 @@ L’objectif est de reproduire fidèlement la structure, les proportions et les 
 
 ---
 
+##  Description
+
+"Le model ARESA 3000 – 2500 MLD a été conçu pour effectuer tous types de missions de transport logistique telles que le transport de troupes et de véhicules militaires. Capable d'accéder aux zones les plus inaccessibles grâce à son tirant d'eau réduit et d'effectuer les missions de débarquement nécessaires au moyen d'une porte et d'une plateforme hydraulique à l'avant. Le système de propulsion peut être équipé d'hélices ou de hydrojets, en fonction des exigences du client et des missions à exécuter."
+
+---
+
 ## 🛠️ Détails techniques du modèle
 
 | Élément | Description |
@@ -26,6 +32,7 @@ L’objectif est de reproduire fidèlement la structure, les proportions et les 
 | **Longueur** | 25,00 m |
 | **Largeur** | 6,00 m |
 | **Matériaux modélisés** | Aluminium, composites |
+| **Vitesse** | Min: 14 kt - Max: 25 kt |
 
 ---
 
@@ -64,8 +71,5 @@ Certaines textures n'ont pas été prises en compte
 ## 👨‍💻 Auteur
 
 **Ludovic Bocquillon**  
-Étudiant ingénieur à l’ESILV  
-Passionné de CAO, mécatronique et modélisation 3D appliquée à l’aéronautique et au naval.  
-
 📫 Contact : [LinkedIn](https://www.linkedin.com/in/ludovic-bocquillon-b65b73255)
 
