@@ -1,10 +1,10 @@
-# 🚤 Modélisation 3D — ARESA 2500 MLB
+# 🚤 Modélisation 3D — ARESA 2500 MLD
 
 ![Aresa 2500 MLB Banner](Aresaban.jpg)
 
 ## 🧩 Présentation du projet
 
-Ce projet présente la **modélisation 3D complète du bateau ARESA 2500 MLB**, réalisée dans **SolidWorks**.  
+Ce projet présente la **modélisation 3D complète du bateau ARESA 2500 MLD**, réalisée dans **SolidWorks**.  
 L’objectif est de reproduire fidèlement la structure, les proportions et les détails techniques de ce modèle afin de pouvoir l’exploiter pour le **rendu, la simulation et la visualisation 3D interactive**.
 
 ---
@@ -53,7 +53,7 @@ Ce travail s’inscrit dans une démarche d’apprentissage de la **CAO mécaniq
 
 ## 🧭 Aperçu 3D interactif
 
-Vous pouvez explorer de manière interactive le modèle 3D du **bateau ARESA 2500 MLB** directement en ligne :  
+Vous pouvez explorer de manière interactive le modèle 3D du **bateau ARESA 2500 MLD** directement en ligne :  
 
 👉 [Cliquez ici pour ouvrir le modèle 3D interactif](https://skfb.ly/pDXDI)
 
